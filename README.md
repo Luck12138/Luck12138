@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Luck12138&show_icons=true&count_private=true&theme=transparent" />
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
 
  - 🤖 I'm a postgraduate student in QUT.
  - 🌱 I'm currently working on Personalized Federated Learning, Decentralized Federated Learning.
@@ -12,6 +12,7 @@
 <!--
 **HongdaChen/HongdaChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Luck12138&repo=Luck12138.github.io&theme=buefy" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Luck12138&show_icons=true&count_private=true&theme=transparent" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
